@@ -29,3 +29,5 @@ Get-Content merge_branches
 
 fix typo  
 
+
+Fixed documentation typo.
