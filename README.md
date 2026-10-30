@@ -25,3 +25,7 @@ git commit -m "Fix typo in README"
 git checkout main
 git merge bug-fix-typo > merge_branches 2>&1
 Get-Content merge_branches
+
+
+fix typo  
+
